@@ -4,7 +4,7 @@ title: About me
 subtitle: Hannah Wauchope - Computational Ecologist and Conservation Scientist
 ---
 
-Welcome to my website! I am a computational ecologist specialising in conservation, particularly of polar regions. I am interested in how biodiversity responds to large-scale stressors, such as climate change, and how understanding this can inform policy and conservation management. Most of my work is modelling based, and I have significant experience with species distribution models, population models, mixed effects models and Bayesian hierarchical models. I have excellent computational skills, including fluency in R and Python, as well as significant expertise in large dataset management, high performance computing and GIS.
+I am a computational ecologist specialising in conservation, particularly of polar regions. I am interested in how biodiversity responds to large-scale stressors, such as climate change, and how understanding this can inform policy and conservation management. Most of my work is modelling based, and I have significant experience with species distribution models, population models, mixed effects models and Bayesian hierarchical models. I have excellent computational skills, including fluency in R and Python, as well as significant expertise in large dataset management, high performance computing and GIS.
 
 I'm currently a third-year PhD student at the University of Cambridge working with Prof. William Sutherland and Dr. Tatsuya Amano to examine the effectiveness on protected areas in conserving waterbird populations across the world. My previous research has included studies of conservation and environmental change in both the Arctic and Antarctic.
 
