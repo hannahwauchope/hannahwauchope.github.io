@@ -3,11 +3,6 @@ layout: page
 title: Publications
 #subtitle: Hannah Wauchope - Computational Ecologist and Conservation Scientist
 ---
-
-I am a computational ecologist specialising in conservation, particularly of polar regions. I am interested in how biodiversity responds to large-scale stressors, such as climate change, and how understanding this can inform policy and conservation management. Most of my work is modelling based, and I have significant experience with species distribution models, population models, mixed effects models and Bayesian hierarchical models. I have excellent computational skills, including fluency in R and Python, as well as significant expertise in large dataset management, high performance computing and GIS.
-
-I'm currently a third-year PhD student at the University of Cambridge working with Prof. William Sutherland and Dr. Tatsuya Amano to examine the effectiveness on protected areas in conserving waterbird populations across the world. My previous research has included studies of conservation and environmental change in both the Arctic and Antarctic.
-
 ### Published
 
 1.	Simmons, B. I., Balmford, A., Bladon, A. J., ... Wauchope, H. S., Wordley, C. F. R., Worthington, T. A., Finch, T. (2019) Worldwide insect declines: an important message, but interpret with caution. Ecology and Evolution. 9:3678-3680
