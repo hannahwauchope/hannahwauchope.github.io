@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Publications
-#subtitle: Hannah Wauchope - Computational Ecologist and Conservation Scientist
 ---
 ### Published
 
