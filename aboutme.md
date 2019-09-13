@@ -20,7 +20,7 @@ Published
 7.	Wauchope, H.S., Shaw, J., Varpe, Ø., Boertmann, D., Fuller, R. (2015) Environmental Niche Modelling for Polar Species using MaxEnt. Symposium Proceedings ‘Assessing vulnerability in Polar Areas’. Norwegian Polar Institute.
 
 Accepted
-8.	Wauchope, H. S., Amano, T., Sutherland, W. J., Johnston, A. When can we trust population trends? A method for quantifying the effects of sampling interval and duration. Methods in Ecology and Evolution. Accepted. (Available on bioRiv, doi.org/10.1101/498170)
+8.	Wauchope, H. S., Amano, T., Sutherland, W. J., Johnston, A. When can we trust population trends? A method for quantifying the effects of sampling interval and duration. Methods in Ecology and Evolution. Accepted. (Available on bioRxiv, doi.org/10.1101/498170)
 9.	Rose, D. C., Amano, T., González-Varo, J. P., Mukherjee, N., Robertson, R. J., Simmons, B. I., Wauchope, H. S., Sutherland, W. J. Insurmountable barriers, bad solutions, or lack of implementation? A call for a new agenda for conservation science-policy research. Biological Conservation. Accepted.
 
 In Review or Submitted
