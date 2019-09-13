@@ -20,7 +20,7 @@ description: A website about my science
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  Publications: "Publications"
   #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
