@@ -13,7 +13,7 @@ Antarctica is one of the Earth's last spans of intact wilderness, but protection
 ### Restoring the Macquarie Island Red Crown Parakeet
 The Southern Ocean encircles the Antarctic continent, and contains a number of small Sub-Antarctic Islands. These islands are hotspots of biodiversity, where many species of birds and seals flock to breed. Surpringsly, some of these islands are home to tropical looking parakeets! 
 
-![AntipodesParakeet Kimberley Collins [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)]](https://upload.wikimedia.org/wikipedia/commons/2/2b/Antipodes_Island_Parakeet.jpg)
+![AntipodesParakeet](https://upload.wikimedia.org/wikipedia/commons/2/2b/Antipodes_Island_Parakeet.jpg "Image from Wikipedia, Copyright Kimberley Collins [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)]")
 
 These little birds, which constitute various species and subspecies of the Red-crowned parakeet (*Cyanoramphus novaezelandiae*) clade, live on a handful of islands in the New Zealand Sub-Antarctic, but one species of them used to exist on an Australian Sub-Antarctic islands, Macquarie Island.
 
@@ -25,6 +25,6 @@ Though exciting, before any such project could go ahead, we would need to decide
 
 We found that far and away the most appropriate substitute would be a species living on Auckland Island, Reischek's Parakeet:
 
-![Reischek's Parakeet Auckland Museum [CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)]](https://upload.wikimedia.org/wikipedia/commons/e/e8/Cyanoramphus_hochstetteri_%28AM_LB14722-1%29.jpg)
+![Reischek's Parakeet](https://upload.wikimedia.org/wikipedia/commons/e/e8/Cyanoramphus_hochstetteri_%28AM_LB14722-1%29.jpg "Image from Wikipedia, Copyright Auckland Museum [CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)]")
 
 Getting parakeets to the island is probably a ways off yet, but at least we know the first step!
