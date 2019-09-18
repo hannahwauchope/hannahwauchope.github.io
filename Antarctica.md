@@ -16,4 +16,12 @@ The Southern Ocean encircles the Antarctic continent, and contains a number of s
 
 These little birds, which constitute various species and subspecies of the Red-crowned parakeet (*Cyanoramphus novaezelandiae*) clade, live on a handful of islands in the New Zealand Sub-Antarctic, but one species of them used to exist on an Australian Sub-Antarctic islands, Macquarie Island.
 
-In a classic example of blah blah, the introduction of rabbits to the island meant the cat population was able to expand, and eventually [hunt the parakeets to extinction](https://newzealandecology.org/nzje/1448.pdf). 
+Unfortunately the first human visitors to the island brought with them many invasive species including rabbits, rats, cats and mice. These wreaked havoc on the native Macquarie Island ecosystem. Strangely, it wasn't the introduction of cats alone that led to the extinction of the parakeets, but it is thought that in a classic example of ecological trophic cascades, the introduction of rabbits to the island (a few years after the cats arrived) meant the cat population was able to expand, and eventually [hunt the parakeets to extinction](https://newzealandecology.org/nzje/1448.pdf).
+
+But recently, an enormous effort has been underway to rid Macquarie Island of its various invasive species, and this was declared a success in [2014](https://www.abc.net.au/news/2014-04-07/macquarie-island-declared-pest-free-after-eradication-program/5373336). Since then, there has been discussion about restoring parakeets to the island to help in the restoration efforts.
+
+Though exciting, before any such project could go ahead, we would need to decide where to take the parakeets *from*. So we conducted a study to assess which of the other parakeet species/subspecies would be best suited to life on Macquarie Island.
+
+We found that far and away the most appropriate substitute would be a species living on Auckland Island, Reischek's Parakeet
+
+![Reischek's Parakeet Auckland Museum [CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)]](https://upload.wikimedia.org/wikipedia/commons/e/e8/Cyanoramphus_hochstetteri_%28AM_LB14722-1%29.jpg)
