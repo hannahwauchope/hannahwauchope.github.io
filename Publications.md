@@ -16,4 +16,4 @@ title: Publications
 
 ### Popular Science Articles
 
-16.	**Wauchope, H. S.** & Fuller, R. (2016) Arctic birds face disappearing breeding grounds as climate warms. *The Conversation*. Available [here](https://theconversation.com/arctic-birds-face-disappearing-breeding-grounds-as-climate-warms-62656)
+16.	**Wauchope, H. S.** & Fuller, R. (2016) Arctic birds face disappearing breeding grounds as climate warms. *The Conversation*. Available [here](https://theconversation.com/arctic-birds-face-disappearing-breeding-grounds-as-climate-warms-62656).
