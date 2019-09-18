@@ -10,6 +10,10 @@ Antarctica is one of the Earth's last spans of intact wilderness, but protection
 
 ### Restoring the Macquarie Island Red Crown Parakeet
 
-The Southern Ocean encircles the Antarctic continent, and contains a number of small Sub-Antarctic Islands. These islands are hotspots of biodiversity, where many species of birds and seals flock to breed. Surpringsly, some of these islands are home to tropical looking parakeets! These little birds live
+The Southern Ocean encircles the Antarctic continent, and contains a number of small Sub-Antarctic Islands. These islands are hotspots of biodiversity, where many species of birds and seals flock to breed. Surpringsly, some of these islands are home to tropical looking parakeets! 
 
 ![AntipodesParakeet Kimberley Collins [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)]](https://upload.wikimedia.org/wikipedia/commons/2/2b/Antipodes_Island_Parakeet.jpg)
+
+These little birds, which constitute various species and subspecies of the Red-crowned parakeet (*Cyanoramphus novaezelandiae*) clade, live on a handful of islands in the New Zealand Sub-Antarctic, but one species of them used to exist on an Australian Sub-Antarctic islands, Macquarie Island.
+
+In a classic example of blah blah, the introduction of rabbits to the island meant the cat population was able to expand, and eventually [hunt the parakeets to extinction](https://newzealandecology.org/nzje/1448.pdf). 
