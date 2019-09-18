@@ -8,6 +8,9 @@ Antarctica is one of the Earth's last spans of intact wilderness, but protection
 
 ![AntarcticProtectionInfographic](/img/InfoGraph_NComm.png){: .center-block :}
 
+
+
+
 ### Restoring the Macquarie Island Red Crown Parakeet
 
 The Southern Ocean encircles the Antarctic continent, and contains a number of small Sub-Antarctic Islands. These islands are hotspots of biodiversity, where many species of birds and seals flock to breed. Surpringsly, some of these islands are home to tropical looking parakeets! 
@@ -20,8 +23,8 @@ Unfortunately the first human visitors to the island brought with them many inva
 
 But recently, an enormous effort has been underway to rid Macquarie Island of its various invasive species, and this was declared a success in [2014](https://www.abc.net.au/news/2014-04-07/macquarie-island-declared-pest-free-after-eradication-program/5373336). Since then, there has been discussion about restoring parakeets to the island to help in the restoration efforts.
 
-Though exciting, before any such project could go ahead, we would need to decide where to take the parakeets *from*. So we conducted a study to assess which of the other parakeet species/subspecies would be best suited to life on Macquarie Island.
+Though exciting, before any such project could go ahead, we would need to decide where to take the parakeets *from*. So [we conducted a study](https://conbio.onlinelibrary.wiley.com/doi/abs/10.1111/cobi.13224?af=R) to assess which of the other parakeet species/subspecies would be best suited to life on Macquarie Island.
 
-We found that far and away the most appropriate substitute would be a species living on Auckland Island, Reischek's Parakeet
+We found that far and away the most appropriate substitute would be a species living on Auckland Island, Reischek's Parakeet. Getting parakeets to the island is probably a ways off yet, but at least we know the first step!
 
 ![Reischek's Parakeet Auckland Museum [CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)]](https://upload.wikimedia.org/wikipedia/commons/e/e8/Cyanoramphus_hochstetteri_%28AM_LB14722-1%29.jpg)
