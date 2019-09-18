@@ -21,9 +21,9 @@ url: "https://hannahwauchope.com"
 # List of links in the navigation bar
 navbar-links:
   Publications: "Publications"
-#  Research:
+  Research:
 #    - The Arctic: "Arctic"
-#    - Antarctica: "Antarctica"
+    - Antarctica: "Antarctica"
 #    - Methods: "Methods"
 #    - Protected Areas: "PAs"
   #Author's home: "http://deanattali.com"
