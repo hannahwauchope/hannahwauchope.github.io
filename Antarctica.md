@@ -25,6 +25,8 @@ But recently, an enormous effort has been underway to rid Macquarie Island of it
 
 Though exciting, before any such project could go ahead, we would need to decide where to take the parakeets *from*. So [we conducted a study](https://conbio.onlinelibrary.wiley.com/doi/abs/10.1111/cobi.13224?af=R) to assess which of the other parakeet species/subspecies would be best suited to life on Macquarie Island.
 
-We found that far and away the most appropriate substitute would be a species living on Auckland Island, Reischek's Parakeet. Getting parakeets to the island is probably a ways off yet, but at least we know the first step!
+We found that far and away the most appropriate substitute would be a species living on Auckland Island, Reischek's Parakeet:
 
 ![Reischek's Parakeet Auckland Museum [CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)]](https://upload.wikimedia.org/wikipedia/commons/e/e8/Cyanoramphus_hochstetteri_%28AM_LB14722-1%29.jpg)
+
+Getting parakeets to the island is probably a ways off yet, but at least we know the first step!
