@@ -59,7 +59,7 @@ footer-link-col: "#2e5f8c"
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
-author: Hannah Wauchope
+author:
   name: Hannah Wauchope
 
 # Select your active Social Network Links.
