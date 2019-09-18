@@ -4,7 +4,7 @@ title: Publications
 ---
 ### Peer Reviewed Papers
 
-1.	**Wauchope, H. S.**, Amano, T., Sutherland, W. J., Johnston, A. When can we trust population trends? A method for quantifying the effects of sampling interval and duration. *Methods in Ecology and Evolution*. Accepted. (Available on bioRxiv, doi.org/10.1101/498170)
+1.	**Wauchope, H. S.**, Amano, T., Sutherland, W. J., Johnston, A. When can we trust population trends? A method for quantifying the effects of sampling interval and duration. *Methods in Ecology and Evolution*. Accepted. (Available on [bioRxiv](doi.org/10.1101/498170))
 2.	Rose, D. C., Amano, T., González-Varo, J. P., Mukherjee, N., Robertson, R. J., Simmons, B. I., **Wauchope, H. S.**, Sutherland, W. J. Insurmountable barriers, bad solutions, or lack of implementation? A call for a new agenda for conservation science-policy research. *Biological Conservation*. Accepted.
 3.	Simmons, B. I., Balmford, A., Bladon, A. J., ... **Wauchope, H. S.**, Wordley, C. F. R., Worthington, T. A., Finch, T. (2019) Worldwide insect declines: an important message, but interpret with caution. *Ecology and Evolution*. 9:3678-3680
 4.	**Wauchope, H. S.**, Shaw, J., Terauds, A. (2019) A snapshot of biodiversity protection in Antarctica. *Nature Communications*. 10:946
@@ -16,4 +16,4 @@ title: Publications
 
 ### Popular Science Articles
 
-16.	**Wauchope, H. S.** & Fuller, R. (2016) Arctic birds face disappearing breeding grounds as climate warms. *The Conversation*. Available at: https://theconversation.com/arctic-birds-face-disappearing-breeding-grounds-as-climate-warms-62656
+16.	**Wauchope, H. S.** & Fuller, R. (2016) Arctic birds face disappearing breeding grounds as climate warms. *The Conversation*. Available [here](https://theconversation.com/arctic-birds-face-disappearing-breeding-grounds-as-climate-warms-62656)
