@@ -42,7 +42,7 @@ avatar: "/img/705A0707.jpg"
 
 navbar-col: "#8cb5e0"
 navbar-text-col: "#2e5f8c"
-navbar-children-col: "#2e5f8c"
+navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
 link-col: "#2e5f8c"
 hover-col: "#2e5f8c"
