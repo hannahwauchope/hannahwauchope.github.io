@@ -12,4 +12,4 @@ Antarctica is one of the Earth's last spans of intact wilderness, but protection
 
 The Southern Ocean encircles the Antarctic continent, and contains a number of small Sub-Antarctic Islands. These islands are hotspots of biodiversity, where many species of birds and seals flock to breed. Surpringsly, some of these islands are home to tropical looking parakeets! These little birds live
 
-![AntipodesParakeet](https://commons.wikimedia.org/wiki/File:Antipodes_Island_Parakeet.jpg)
+![AntipodesParakeet Kimberley Collins [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)]](https://upload.wikimedia.org/wikipedia/commons/2/2b/Antipodes_Island_Parakeet.jpg)
