@@ -4,7 +4,7 @@
 title: Home
 
 # Short description of your site
-description: A website about my science
+description: Hannah Wauchope Conservation Scientist
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -39,14 +39,14 @@ avatar: "/img/705A0707.jpg"
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#8cb5e0"
-navbar-text-col: "#2e5f8c"
-navbar-children-col: "#2e5f8c"
+navbar-text-col: "#F5F5F5"
+navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
 link-col: "#2e5f8c"
 hover-col: "#2e5f8c"
 footer-col: "#F5F5F5"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+footer-text-col: "##F5F5F5"
+footer-link-col: "#2e5f8c"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
@@ -59,7 +59,7 @@ footer-link-col: "#404040"
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
-author:
+author: Hannah Wauchope
   name: Hannah Wauchope
 
 # Select your active Social Network Links.
