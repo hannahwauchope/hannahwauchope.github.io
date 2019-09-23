@@ -28,6 +28,7 @@ Will we see migratory species almost disappear from these parts of the world? It
 
 You can read more about this work [here](https://theconversation.com/arctic-birds-face-disappearing-breeding-grounds-as-climate-warms-62656), or the full paper [here](https://www.fullerlab.org/wp-content/uploads/2017/02/Wauchope-et-al-2017.pdf).
 
+---
 
 
 
