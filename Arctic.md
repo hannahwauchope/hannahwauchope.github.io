@@ -12,7 +12,7 @@ We looked at the breeding distributions of 24 shorebirds that breed exclusively 
 
 We determined the combination of climatic conditions where each species currently breeds, and looked at where these conditions could be distributed in the Arctic at two points, 6000 years ago and 70 years into the future. We wanted to looked at what their distributions might have been 6000 years ago, as this was at a time called the Mid-Holocene Climatic Optimum, where the Earth's temperature was slightly warmer than it is are today. As such, it's a good reference point to see how species respond to mild warming. More than that, we know that some species experienced genetic bottlenecks around this time (meaning something happened to reduce the populations to very small sizes). So if we know that even this mild warming affected species, by comparing how drastic the difference is between that warming period and projected future warming periods, we can have an idea of how bad the impact of future climate change may be.
 
-
+![ShorebirdBarChart](/img/ShorebirdBarChart.png)
 
 
 
