@@ -22,7 +22,7 @@ url: "https://hannahwauchope.com"
 navbar-links:
   Publications: "Publications"
   Research:
-#    - The Arctic: "Arctic"
+    - The Arctic: "Arctic"
     - Antarctica: "Antarctica"
 #    - Methods: "Methods"
 #    - Protected Areas: "PAs"
