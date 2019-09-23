@@ -20,7 +20,7 @@ So how much habitat do the birds lose? Let's look at the percentage of habitat r
 
 In the Mid-Holocene, most birds lost some habitat, but none by more than 50% of current habitat amounts. And genetic data tells us that even this amount of habitat loss had big effects for populations. But when we look forward to 2070, species are losing a *lot* more habitat. Most species have less than 50% of current habitat remaining, and a few have less than 5% remaining - they have nowhere left to live. This is even more extreme in a "business as usual" scenario where we don't curb emissions. It's worth noting that I did this work a few years ago now, and it's looking like these climate projections are very optimistic. So reality is likely to be even worse. 
 
-And this could have big impacts to where these species migrate around the world, because the habitat loss isn't consistent across the Arctic. These maps show where the habitat is located, the darker the colour, the more species live there. You can see it's pretty well distributed around the Arctic currently, but by far the biggest lossess in the future are from Russia and Alaska. 
+And this could have big impacts on where these species migrate around the world, because the habitat loss isn't consistent across the Arctic. These maps show where the habitat is located, the darker the colour, the more species live there. You can see it's pretty well distributed around the Arctic currently, but by far the biggest lossess in the future are from Russia and Alaska. 
 
 ![ShorebirdMaps](/img/ShorebirdMaps.png){: .center-block :}
 
