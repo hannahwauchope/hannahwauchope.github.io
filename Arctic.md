@@ -26,7 +26,7 @@ And this could have big impacts to where these species migrate around the world,
 
 Will we see migratory species almost disappear from these parts of the world? It's possible. This work points to how essential it is that we keep fighting to reduce emissions as soon as possible, and ensure that we do everything we can to reduce other threats to these birds to give them the best chance of continuing their amazing migrations. 
 
-You can read more about this work [here](https://theconversation.com/arctic-birds-face-disappearing-breeding-grounds-as-climate-warms-62656), or the full paper [here](https://www.fullerlab.org/wp-content/uploads/2017/02/Wauchope-et-al-2017.pdf)
+You can read more about this work [here](https://theconversation.com/arctic-birds-face-disappearing-breeding-grounds-as-climate-warms-62656), or the full paper [here](https://www.fullerlab.org/wp-content/uploads/2017/02/Wauchope-et-al-2017.pdf).
 
 
 
