@@ -4,8 +4,8 @@ title: Publications
 ---
 ### Peer Reviewed Papers
 
-1.	**Wauchope, H. S.**, Amano, T., Sutherland, W. J., Johnston, A. When can we trust population trends? A method for quantifying the effects of sampling interval and duration. *Methods in Ecology and Evolution*. Accepted. (Available on [bioRxiv](doi.org/10.1101/498170))
-2.	Rose, D. C., Amano, T., González-Varo, J. P., Mukherjee, N., Robertson, R. J., Simmons, B. I., **Wauchope, H. S.**, Sutherland, W. J. Insurmountable barriers, bad solutions, or lack of implementation? A call for a new agenda for conservation science-policy research. *Biological Conservation*. Accepted.
+1.	**Wauchope, H. S.**, Amano, T., Sutherland, W. J., Johnston, A. When can we trust population trends? A method for quantifying the effects of sampling interval and duration. *Methods in Ecology and Evolution*. Early View. 
+2.	Rose, D. C., Amano, T., González-Varo, J. P., Mukherjee, N., Robertson, R. J., Simmons, B. I., **Wauchope, H. S.**, Sutherland, W. J. Calling for a new agenda for conservation science to create evidence-informed policy. *Biological Conservation*. 238:10822.
 3.	Simmons, B. I., Balmford, A., Bladon, A. J., ... **Wauchope, H. S.**, Wordley, C. F. R., Worthington, T. A., Finch, T. (2019) Worldwide insect declines: an important message, but interpret with caution. *Ecology and Evolution*. 9:3678-3680
 4.	**Wauchope, H. S.**, Shaw, J., Terauds, A. (2019) A snapshot of biodiversity protection in Antarctica. *Nature Communications*. 10:946
 5.	**Wauchope, H. S.**, Shanahan, D., Fuller, R., Shaw, J. (2019) Restoring islands and identifying source populations for introductions. *Conservation Biology*. 33: 729-732
