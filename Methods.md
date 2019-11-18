@@ -34,5 +34,8 @@ The take home from all of this is that the when we have a significant trend from
 
 This has big implications, as it means that a significant trend from a sample of even just a few years is likely to be correct. So if we detect that a population is declining, we should act now!
 
-In the rest of the paper I investigate a bunch of other scenarios that provide some useful info (for instance, what about if we compared the magnitude of the slode, or take samples in intervals etc), see the paper <a href="https://github.com/hannahwauchope/hannahwauchope.github.io/pdfs/Wauchope et al., 2019 - MEE - TrustingTrends.pdf" target="_blank">here.</a> and all the relevant code [here](https://github.com/hannahwauchope/TrustingTrends).
+In the rest of the paper I investigate a bunch of other scenarios that provide some useful info (for instance, what about if we compared the magnitude of the slode, or take samples in intervals etc), see the paper <embed src="pdfs/Wauchope et al., 2019 - MEE - TrustingTrends.pdf" type="application/pdf" />
+
+
+<a href="https://github.com/hannahwauchope/hannahwauchope.github.io/pdfs/Wauchope et al., 2019 - MEE - TrustingTrends.pdf" target="_blank">here.</a> and all the relevant code [here](https://github.com/hannahwauchope/TrustingTrends).
 
