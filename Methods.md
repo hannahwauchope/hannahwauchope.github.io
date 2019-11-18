@@ -37,5 +37,5 @@ This has big implications, as it means that a significant trend from a sample of
 In the rest of the paper I investigate a bunch of other scenarios that provide some useful info (for instance, what about if we compared the magnitude of the slode, or take samples in intervals etc), see the paper <embed src="pdfs/Wauchope et al., 2019 - MEE - TrustingTrends.pdf" type="application/pdf" />
 
 
-<a href="https://github.com/hannahwauchope/hannahwauchope.github.io/pdfs/Wauchope et al., 2019 - MEE - TrustingTrends.pdf" target="_blank">here.</a> and all the relevant code [here](https://github.com/hannahwauchope/TrustingTrends).
+<a href="https://hannahwauchope.github.io/pdfs/Wauchope et al., 2019 - MEE - TrustingTrends.pdf" target="_blank">here.</a> and all the relevant code [here](https://github.com/hannahwauchope/TrustingTrends).
 
