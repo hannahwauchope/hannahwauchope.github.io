@@ -24,7 +24,7 @@ In this case the long term trend was negative. If a three year sample matched th
 
 In this example, I was taking 3 year chunks from a 30 year trend. But I ran this with every possible iteration within that, e.g. a 10 year chunk from a 29 year trend, a 4 year chunk from a 10 year trend, a 7 year chunk from an 18 year trend etc etc, and found the number of times in each case that the chunk was likely to represent the full trend. And these are the results:
 
-![Results1](/img/TT_Consecutive.pdf){: .center-block :}
+![Results1](/img/TT_Consecutive.jpg){: .center-block :}
 
 The top right box shows cases where the sample and the long-term trend are "matching" (correct). As expected, the closer the sample and long-term trend are in length, the more likely the sample is to be correct. But even when the sample is quite close to the length of the long-term trend, it can still often be incorrect. E.g. if we have a 24 year sample of a 30 year long-term trend, it will only be correct 70-80% of the time. And a 10 year sample of a 30 year long-term trend will only be correct 50-60% of the time! 
 
