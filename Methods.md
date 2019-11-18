@@ -16,4 +16,14 @@ I set up to try and answer this question. Using a dataset of tens of thousands o
 ![TheWrongIdea](/img/TT_1.png){: .center-block :}
 This is a case of us getting entirely the wrong idea about a population trend from a data subset. If we had only surveyed the population in these 5 years we'd think it was doing brilliantly!
 
+To try and figure out the chances of this happening, I took >27,000 long term waterbird population trends, and then took small chunks out of each one. I looked to see how often the chunks matched the longer term trend, like so:
+
 ![TheWrongIdea](/img/TT.gif){: .center-block :}
+
+In this case the long term trend was negative. If a three year sample matched that, it was correct (tick), if it showed the opposite it was incorrect (cross) and if it showed an insignificant trend, then it was a "missed negative", as in, we missed that a negative trend was occurring. 
+
+In this example, I was taking 3 year chunks from a 30 year trend. But I ran this with every possible iteration within that, e.g. a 10 year chunk from a 29 year trend, a 4 year chunk from a 10 year trend, a 7 year chunk from an 18 year trend etc etc, and found the number of times in each case that the chunk was likely to represent the full trend. And these are the results:
+
+![TheWrongIdea](/img/TT_Consecutive.pdf){: .center-block :}
+
+
