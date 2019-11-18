@@ -13,6 +13,6 @@ This question doesn't only apply to single populations, but to large scale studi
 
 I set up to try and answer this question. Using a dataset of tens of thousands of waterbird population trends, I wanted to know how likely it was that trends from varying lengths (of time) matched the longer term trends of the population.
 
-![TheWrongIdea](/img/TT_!.png){: .center-block :}
+![TheWrongIdea](/img/TT_1.png){: .center-block :}
 This is a case of us getting entirely the wrong idea about a population trend from a data subset. If we had only surveyed the population in these 5 years we'd think it was doing brilliantly!
 
