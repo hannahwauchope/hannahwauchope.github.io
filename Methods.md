@@ -18,7 +18,7 @@ This is a case of us getting entirely the wrong idea about a population trend fr
 
 To try and figure out the chances of this happening, I took >27,000 long term waterbird population trends, and then took small chunks out of each one. I looked to see how often the chunks matched the longer term trend, like so:
 
-![ChunkGif](/img/TT.gif){: .center-block :}
+![ChunkGif](/img/TT2.gif){: .center-block :}
 
 In this case the long term trend was negative. If a three year sample matched that, it was correct (tick), if it showed the opposite it was incorrect (cross) and if it showed an insignificant trend, then it was a "missed negative", as in, we missed that a negative trend was occurring. 
 
